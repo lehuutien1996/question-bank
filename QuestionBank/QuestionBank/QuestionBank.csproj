@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataAccess\DB.cs" />
     <Compile Include="QuestionBank.cs">
       <SubType>Form</SubType>
     </Compile>
